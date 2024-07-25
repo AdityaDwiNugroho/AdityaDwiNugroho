@@ -74,26 +74,16 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31dggjk2y46qhas24p7khrrxffwu)
 
-## 💻 Weekly Coding Stats
+### 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       █████████▒░░░░░░░░░░░   37.29 % 
-JavaScript   ████████▓░░░░░░░░░░░░   34.78 % 
-HTML         ██▒░░░░░░░░░░░░░░░░░░   09.24 % 
-CSS          █▓░░░░░░░░░░░░░░░░░░░   06.85 % 
-JSON         █▒░░░░░░░░░░░░░░░░░░░   05.30 % 
-```
 <!--END_SECTION:waka-->
 
-
-
-## 🤝 Let's Connect!
+### 💬 Let's Connect!
 
 I'm always looking to collaborate on interesting projects or just chat about web development. Feel free to reach out!
 
 ---
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
