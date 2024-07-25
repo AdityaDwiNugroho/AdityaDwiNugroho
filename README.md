@@ -86,10 +86,6 @@ JSON         █▒░░░░░░░░░░░░░░░░░░░   0
 ```
 <!--END_SECTION:waka-->
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Let's Connect!
 
 I'm always looking to collaborate on interesting projects or just chat about web development. Feel free to reach out!
