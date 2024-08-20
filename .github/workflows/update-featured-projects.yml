@@ -1,5 +1,4 @@
 name: Update Featured Projects
-
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight
@@ -10,10 +9,10 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.FEATUREDPROJECTS }}
     
     - name: Get latest repos
       uses: octokit/request-action@v2.x
@@ -25,7 +24,7 @@ jobs:
         direction: desc
         per_page: 2
       env:
-        GITHUB_TOKEN: ${{ secrets.FEATUREDPROJECTS }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Get most starred repos
       uses: octokit/request-action@v2.x
@@ -37,7 +36,7 @@ jobs:
         direction: desc
         per_page: 2
       env:
-        GITHUB_TOKEN: ${{ secrets.FEATUREDPROJECTS }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Update README
       run: |
@@ -61,4 +60,4 @@ jobs:
         git commit -m "Update featured projects"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.FEATUREDPROJECTS }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
