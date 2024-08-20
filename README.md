@@ -25,6 +25,7 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 <div align="center">
 
 ### Front-end
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,18 +33,21 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 ### Styling
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Back-end (Learning)
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -55,8 +59,9 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=CodeMentor&theme=radical)](https://github.com/AdityaDwiNugroho/CodeMentor)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=study-time-50-10&theme=radical)](https://github.com/AdityaDwiNugroho/study-time-50-10)
+<!-- FEATURED-PROJECTS:START -->
+<!-- FEATURED-PROJECTS:END -->
+
 </div>
 
 ## 📊 GitHub Stats
@@ -98,6 +103,7 @@ JSON         13 mins         -------------------------   01.16 %
 I'm always looking to collaborate on interesting projects or just chat about web development. Feel free to reach out!
 
 ---
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
