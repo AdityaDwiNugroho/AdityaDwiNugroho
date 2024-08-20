@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        token: ${{ secrets.PAT }}
+        token: ${{ secrets.FEATUREDPROJECTS }}
     
     - name: Get latest repos
       uses: octokit/request-action@v2.x
@@ -25,7 +25,7 @@ jobs:
         direction: desc
         per_page: 2
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.FEATUREDPROJECTS }}
     
     - name: Get most starred repos
       uses: octokit/request-action@v2.x
@@ -37,7 +37,7 @@ jobs:
         direction: desc
         per_page: 2
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.FEATUREDPROJECTS }}
     
     - name: Update README
       run: |
@@ -53,11 +53,12 @@ jobs:
         
         sed -i "/<!-- FEATURED-PROJECTS:START -->/,/<!-- FEATURED-PROJECTS:END -->/c\<!-- FEATURED-PROJECTS:START -->\n${readme_content}<!-- FEATURED-PROJECTS:END -->" README.md
     
-    - name: Commit and push if changed
+    - name: Commit and push changes
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update featured projects" && git push)
+        git commit -m "Update featured projects"
+        git push
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.FEATUREDPROJECTS }}
