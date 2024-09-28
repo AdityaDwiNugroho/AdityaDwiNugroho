@@ -61,7 +61,7 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 
 <!-- FEATURED-PROJECTS:START -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=AdityaDwiNugroho.github.io&theme=radical)](https://github.com/AdityaDwiNugroho/AdityaDwiNugroho.github.io)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=main&theme=radical)](https://github.com/AdityaDwiNugroho/main)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=Workshop&theme=radical)](https://github.com/AdityaDwiNugroho/Workshop)
 <!-- FEATURED-PROJECTS:END -->
 
 </div>
