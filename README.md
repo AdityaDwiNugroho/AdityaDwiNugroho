@@ -108,7 +108,7 @@ I'm always looking to collaborate on interesting projects or just chat about web
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Explore and star repositories that catch your interest!
 
 </div>
 
