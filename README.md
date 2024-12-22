@@ -87,15 +87,14 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
-Total Time: 7 hrs 31 mins
+Total Time: 51 mins
 
-Vue.js       3 hrs 47 mins   >>>>>>>>>>>>>------------   50.39 %
-TypeScript   3 hrs 18 mins   >>>>>>>>>>>--------------   43.88 %
-Prisma       21 mins         >------------------------   04.85 %
-Bash         3 mins          -------------------------   00.68 %
-JavaScript   0 secs          -------------------------   00.16 %
+Python   45 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.19 %
+JSON     6 mins          >>>----------------------   11.60 %
+Text     0 secs          -------------------------   00.93 %
+Other    0 secs          -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
