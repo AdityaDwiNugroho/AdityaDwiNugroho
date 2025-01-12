@@ -87,7 +87,7 @@ I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
 Total Time: 0 secs
 
