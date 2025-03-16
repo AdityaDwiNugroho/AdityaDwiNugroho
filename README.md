@@ -1,91 +1,102 @@
 <div align="center">
 
-# 👋 Aditya Dwi Nugroho
+![Banner Image](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Developer;Vue.js+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+# Aditya Dwi Nugroho
 
-[<img src="https://img.shields.io/badge/-Website-FF4088?style=for-the-badge&logo=Firefox&logoColor=white" />](https://your-website.com)
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-dwi-nugroho-75057827a/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=4FC08D&width=435&lines=Front-end+Developer;Vue.js+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+
+[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-dwi-nugroho-75057827a/)
 [<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AdityaDwiNugroho)
-[<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:veldora5000@gmail.com)
+[<img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:veldora5000@gmail.com)
+[<img src="https://img.shields.io/badge/-Portfolio-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />](https://github.com/AdityaDwiNugroho)
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate front-end developer and student at SMKN 1 Bantul, Indonesia. My journey in web development is driven by a desire to create beautiful, responsive, and user-friendly web experiences. I'm constantly learning and exploring new technologies to stay at the forefront of web development.
+Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive and user-friendly web experiences with a focus on modern JavaScript frameworks. My development journey revolves around Vue.js and its ecosystem, where I combine technical expertise with an eye for design.
 
-- 🔭 I'm currently working on building a robust portfolio of web projects
-- 🌱 I'm diving deep into Vue.js and its ecosystem
-- 💡 I'm passionate about clean code and responsive design
-- 🎯 2024 Goal: Contribute to open source projects
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Animation" width="400">
+</div>
 
-## 🛠️ Tech Stack
+### Current Focus
+
+- Building a diverse portfolio of Vue.js-powered web applications
+- Expanding my skill set into full-stack development with NestJS
+- Mastering advanced Vue 3 features (Composition API, Suspense, Teleport)
+- Actively contributing to open source Vue ecosystem projects
+- Exploring Web3 and decentralized application development
+
+## Technology Stack
 
 <div align="center">
 
-### Front-end
+**Core Technologies**  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+**Frameworks & Libraries**  
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-F7D358?style=flat-square&logo=vue.js&logoColor=black)
+![Vue Router](https://img.shields.io/badge/-Vue_Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### Styling
+**UI/UX & Styling**  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**Back-end & API**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Back-end (Learning)
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Testing**  
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 </div>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <!-- FEATURED-PROJECTS:START -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=UKKPerpus&theme=radical)](https://github.com/AdityaDwiNugroho/UKKPerpus)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=coc-estimation&theme=radical)](https://github.com/AdityaDwiNugroho/coc-estimation)
+[![UKKPerpus](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=UKKPerpus&theme=tokyonight)](https://github.com/AdityaDwiNugroho/UKKPerpus)
+[![COC Estimation](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=coc-estimation&theme=tokyonight)](https://github.com/AdityaDwiNugroho/coc-estimation)
 <!-- FEATURED-PROJECTS:END -->
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDwiNugroho&show_icons=true&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaDwiNugroho&theme=tokyonight&no-frame=true&row=1&&margin-w=15&no-bg=true" alt="GitHub Trophies" width="100%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDwiNugroho&layout=compact&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDwiNugroho&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaDwiNugroho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaDwiNugroho&theme=radical)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDwiNugroho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 
-</div>
-
-## 🎵 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31dggjk2y46qhas24p7khrrxffwu)
-
-### 📊 Weekly Coding Stats
-
+### Weekly Coding Activity
 <!--START_SECTION:waka-->
-
 ```txt
 From: 01 March 2025 - To: 08 March 2025
 
@@ -97,19 +108,35 @@ HTML         13 mins         >>>----------------------   12.64 %
 JSON         7 mins          >>-----------------------   06.88 %
 CSS          0 secs          -------------------------   00.84 %
 ```
-
 <!--END_SECTION:waka-->
 
-### 💬 Let's Connect!
+</div>
 
-I'm always looking to collaborate on interesting projects or just chat about web development. Feel free to reach out!
+## What I'm Currently Learning
+
+- Advanced state management patterns in Vue 3
+- Server-side rendering optimization with Nuxt 3
+- Micro-frontend architecture implementation
+- API design with GraphQL and REST best practices
+- Performance optimization techniques for modern web apps
+
+## Open Source Contributions
+
+I'm actively looking for opportunities to contribute to Vue.js ecosystem projects and other open-source initiatives. If you're maintaining a project that needs help with front-end development, I'd love to collaborate.
+
+## Contact & Collaboration
+
+I'm open to collaboration on web development projects and discussions about front-end technologies. Feel free to connect via LinkedIn or email for opportunities or technical conversations.
+
+
+<div align="center">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Vue.js" width="200">
+</div>
 
 ---
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=AdityaDwiNugroho&color=4FC08D&style=flat-square&label=Profile+Views" alt="Profile views">
 
-### Explore and star repositories that catch your interest!
-
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityadwinugroho)
 </div>
-
-![Profile views](https://komarev.com/ghpvc/?username=AdityaDwiNugroho&color=blueviolet)
