@@ -55,22 +55,22 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        git diff --quiet || echo "changes=true" >> $GITHUB_ENV
+        git diff --quiet || echo "CHANGED=true" >> $GITHUB_ENV
     
     - name: Commit and push changes
-      if: env.changes == 'true'
+      if: env.CHANGED == 'true'
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
-        
-        COMMIT_MSG="feat: update featured projects"
-        
-        if echo "${latest_repos}" | grep -q "${starred_repos}"; then
-          COMMIT_MSG="feat: update featured projects with latest and most starred repositories"
+
+        # Determine commit message
+        COMMIT_MSG="chore(readme): update featured projects"
+        if [ -n "${latest_repos}" ] && [ -n "${starred_repos}" ]; then
+          COMMIT_MSG="feat(readme): update featured projects with latest and most starred repositories"
         elif [ -n "${latest_repos}" ]; then
-          COMMIT_MSG="feat: update featured projects with latest repositories"
+          COMMIT_MSG="feat(readme): update featured projects with latest repositories"
         elif [ -n "${starred_repos}" ]; then
-          COMMIT_MSG="feat: update featured projects with most starred repositories"
+          COMMIT_MSG="feat(readme): update featured projects with most starred repositories"
         fi
         
         git add README.md
