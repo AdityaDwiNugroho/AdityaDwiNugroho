@@ -36,4 +36,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git pull origin main
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with WakaTime stats" && git push)
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            commit_message="chore(stats): update WakaTime stats for $(date +'%Y-%m-%d')"
+            git commit -m "$commit_message"
+            git push
+          fi
