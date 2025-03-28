@@ -78,8 +78,8 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 <div align="center">
 
 <!-- FEATURED-PROJECTS:START -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=UKKPerpus&theme=radical)](https://github.com/AdityaDwiNugroho/UKKPerpus)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=next.portfolio&theme=radical)](https://github.com/AdityaDwiNugroho/next.portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=ML-Learning&theme=radical)](https://github.com/AdityaDwiNugroho/ML-Learning)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=Perpustakaan&theme=radical)](https://github.com/AdityaDwiNugroho/Perpustakaan)
 <!-- FEATURED-PROJECTS:END -->
 
 </div>
