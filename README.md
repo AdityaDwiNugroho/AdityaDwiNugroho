@@ -4,7 +4,7 @@
 
 # Aditya Dwi Nugroho
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=4FC08D&width=435&lines=Front-end+Developer;Vue.js+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&weight=600&pause=1000&color=4FC08D&width=435&lines=Front-end+Developer;Vue.js+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-dwi-nugroho-75057827a/)
 [<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AdityaDwiNugroho)
