@@ -88,8 +88,6 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaDwiNugroho&theme=tokyonight&no-frame=true&row=1&&margin-w=15&no-bg=true" alt="GitHub Trophies" width="100%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDwiNugroho&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaDwiNugroho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
 
