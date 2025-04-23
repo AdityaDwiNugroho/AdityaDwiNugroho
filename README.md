@@ -79,7 +79,7 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 
 <!-- FEATURED-PROJECTS:START -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=AI-Learning&theme=radical)](https://github.com/AdityaDwiNugroho/AI-Learning)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=three.js&theme=radical)](https://github.com/AdityaDwiNugroho/three.js)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=Promodoro&theme=radical)](https://github.com/AdityaDwiNugroho/Promodoro)
 <!-- FEATURED-PROJECTS:END -->
 
 </div>
