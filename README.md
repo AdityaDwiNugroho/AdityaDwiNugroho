@@ -97,15 +97,15 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 10 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Total Time: 8 hrs 45 mins
+Total Time: 9 hrs 16 mins
 
-Vue.js       8 hrs 24 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.61 %
-JavaScript   16 mins         >------------------------   03.15 %
-JSON         3 mins          -------------------------   00.59 %
-Other        2 mins          -------------------------   00.49 %
-TypeScript   0 secs          -------------------------   00.12 %
+Vue.js       6 hrs 56 mins   >>>>>>>>>>>>>>>>>>>------   74.67 %
+TypeScript   1 hr 6 mins     >>>----------------------   11.87 %
+Python       53 mins         >>-----------------------   09.58 %
+JavaScript   12 mins         >------------------------   02.28 %
+TSConfig     3 mins          -------------------------   00.61 %
 ```
 
 <!--END_SECTION:waka-->
