@@ -78,7 +78,7 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 <div align="center">
 
 <!-- FEATURED-PROJECTS:START -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=Duolingo-Bot&theme=radical)](https://github.com/AdityaDwiNugroho/Duolingo-Bot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=Promodoro&theme=radical)](https://github.com/AdityaDwiNugroho/Promodoro)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=wsl-automation&theme=radical)](https://github.com/AdityaDwiNugroho/wsl-automation)
 <!-- FEATURED-PROJECTS:END -->
 
