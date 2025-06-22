@@ -78,8 +78,8 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 <div align="center">
 
 <!-- FEATURED-PROJECTS:START -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=Promodoro&theme=radical)](https://github.com/AdityaDwiNugroho/Promodoro)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=wsl-automation&theme=radical)](https://github.com/AdityaDwiNugroho/wsl-automation)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=buddymeter-cheat&theme=radical)](https://github.com/AdityaDwiNugroho/buddymeter-cheat)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=chesstv-watch-tracker&theme=radical)](https://github.com/AdityaDwiNugroho/chesstv-watch-tracker)
 <!-- FEATURED-PROJECTS:END -->
 
 </div>
