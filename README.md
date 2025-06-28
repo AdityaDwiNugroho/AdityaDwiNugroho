@@ -78,7 +78,7 @@ Front-end developer and student at SMKN 1 Bantul, Indonesia, crafting responsive
 <div align="center">
 
 <!-- FEATURED-PROJECTS:START -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=365-commits&theme=radical)](https://github.com/AdityaDwiNugroho/365-commits)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=1999&theme=radical)](https://github.com/AdityaDwiNugroho/1999)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaDwiNugroho&repo=commit&theme=radical)](https://github.com/AdityaDwiNugroho/commit)
 <!-- FEATURED-PROJECTS:END -->
 
